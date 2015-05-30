@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Asegurados>
+    <Asegurado>
+        <Nombre>Axel Ruben Davila Arias</Nombre>
+        <NumeroSeguroSocial>346545645756</NumeroSeguroSocial>
+        <Edad>29</Edad>
+        <Sexo>Masculino</Sexo>
+        <Direccion>Desconocida</Direccion>
+    </Asegurado>
+<Asegurado>
+        <Nombre>Roberto</Nombre>
+        <NumeroSeguroSocial>245345345</NumeroSeguroSocial>
+        <Edad>30</Edad>
+        <Sexo>Masculino</Sexo>
+        <Direccion>Desconocida</Direccion>
+    </Asegurado>
+<Asegurado>
+        <Nombre>Himelda</Nombre>
+        <NumeroSeguroSocial>23534534</NumeroSeguroSocial>
+        <Edad>45</Edad>
+        <Sexo>Femenino</Sexo>
+        <Direccion>Rancheria San Jose</Direccion>
+    </Asegurado>
+<Asegurado>
+        <Nombre>Plutarco Elias</Nombre>
+        <NumeroSeguroSocial>234345345</NumeroSeguroSocial>
+        <Edad>34</Edad>
+        <Sexo>Masculino</Sexo>
+        <Direccion>Rancheria San Pablo</Direccion>
+    </Asegurado>
+<Asegurado>
+        <Nombre>Denis Joana</Nombre>
+        <NumeroSeguroSocial>34456456</NumeroSeguroSocial>
+        <Edad>46</Edad>
+        <Sexo>Femenino</Sexo>
+        <Direccion>Tierra Colorada</Direccion>
+    </Asegurado>
+<Asegurado>
+        <Nombre>Melquiadez</Nombre>
+        <NumeroSeguroSocial>34345345</NumeroSeguroSocial>
+        <Edad>48</Edad>
+        <Sexo>Masculino</Sexo>
+        <Direccion>Desconocida</Direccion>
+    </Asegurado>
+
+
+<Asegurado>
+        <Nombre>Arturo Lopez Corona</Nombre>
+        <NumeroSeguroSocial>12345</NumeroSeguroSocial>
+        <Edad>28</Edad>
+        <Sexo>Masculino</Sexo>
+        <Direccion>Salto del Bajio</Direccion>
+    </Asegurado>
+<Asegurado>
+        <Nombre>Melquiadez</Nombre>
+        <NumeroSeguroSocial>123456</NumeroSeguroSocial>
+        <Edad>45</Edad>
+        <Sexo>Masculino</Sexo>
+        <Direccion>Rio Viejo No. 43</Direccion>
+    </Asegurado>
+</Asegurados>
